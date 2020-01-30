@@ -56,8 +56,6 @@ Shiny Application의 화면을 숨기거나 다시 보이게 하는 라이브러
 
 </div>
 
-[WebSite](https://waiter.john-coene.com/#/)
-
 # 사용 방법
 
 핵심 순서는 아래와 같습니다. 

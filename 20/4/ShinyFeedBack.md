@@ -2,7 +2,7 @@
   <img src='https://user-images.githubusercontent.com/6457691/80343869-a0f8e600-88a1-11ea-9f9a-148490193fe3.png' width = '150'>
 </p>
 
-* Official Hexsticker / Icon 이 없어서 암거나 긁어왔따. [freepik](https://www.flaticon.com/kr/authors/freepik)
+* Official Hexsticker / Icon 이 없어서 그럴싸한 이미지를 가져왔습니다. [freepik](https://www.flaticon.com/kr/authors/freepik)
 
 # ShinyFeedBack by [merlinoa](https://github.com/merlinoa)
 

@@ -14,7 +14,7 @@
 * :octocat: 김진환 [@jhk0530](http://github.com/jhk0530)
 
 ## :memo: License
-Copyright :copyright: 2019 Jinhwan Kim
+Copyright :copyright: 2019-2020 Jinhwan Kim
 This project is [MIT](https://opensource.org/licenses/MIT) licensed
 
 *This README was generated with :two_hearts: by [shinyReadme](http://github.com/jhk0530/shinyReadme)*
